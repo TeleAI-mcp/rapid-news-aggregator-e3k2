@@ -1,2 +1,3 @@
-# rapid-news-aggregator-e3k2
+# Rapid News Aggregator E3K2
+
 A repository to test GitHub automation for issue management.
